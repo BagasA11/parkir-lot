@@ -1,0 +1,49 @@
+
+============================================  
+total pendapatan hari ini : 45000
+kapasitas tersedia : 50
+plat nomor : B1234BC
+ jumlah roda : 4
+
+ waktu masuk: 
+jam : 1 menit : 0 detik : 0
+lokasi : A - 1
+waktu keluar: 
+jam: 6 menit: 30 detik: 25
+
+ durasi: 
+5 jam 30 menit 25 detik 
+
+============================================  
+
+ 
+plat nomor : B1243CB
+ jumlah roda : 4
+
+ waktu masuk: 
+jam : 1 menit : 0 detik : 0
+lokasi : A - 2
+waktu keluar: 
+jam: 5 menit: 0 detik: 0
+
+ durasi: 
+4 jam 0 menit 0 detik 
+
+============================================  
+
+ 
+plat nomor : B1245AB
+ jumlah roda : 4
+
+ waktu masuk: 
+jam : 0 menit : 12 detik : 23
+lokasi : A - 3
+waktu keluar: 
+jam: 7 menit: 0 detik: 59
+
+ durasi: 
+6 jam 48 menit 36 detik 
+
+============================================  
+
+ 
